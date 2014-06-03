@@ -1,0 +1,22 @@
+2014-05-18
+A surprising amount of the time that I win a chess game online, my opponent says "lucky".  In the seventeen or so years that I have been dealing with this, my reaction has generally been to mentally gloat, and at the same time get mildly irked for how rude people are on the internet. Once in a while, I'd take the bait and goad him on: "There's luck in chess?"
+
+A few years ago I noticed a twinge of double-think when I typed that.  I knew that there was some luck in chess: for example, if you play as black more than white in a tournament, that's bad luck. If you are white against your biggest rival, that's good luck.
+
+However, not only were these types of luck insignificant, I knew my (possibly drunk) verbal assailant would probably not be able to name them.  So I would win the internet argument, which was always nice.
+
+But it has become obvious to me now that there is luck in chess in a strong way. In fact, the luck in chess is very fundamental.  It is evident at every scale.
+
+In terms of this particular game with my opponent, I have a certain chance to win, lose, or draw the game. For example, I might have an 80% chance to win, a 5% chance to draw, and a 15% chance to lose. So over time I would win my better share of games, by the law of large numbers. But it is even more variable: at that time on that day, perhaps those were my odds. Perhaps I play better in the morning and he players better in the evening. And there are considerations of internet connection, external distractions, how long we've been playing, etc.
+
+My opponent and I in fact have a distribution of distributions of win, loss, and draw odds. Perhaps when all external factors favor my opponent, I win 50%, draw 10%, and lose 40%, whereas when all external factors favor me, I win 95%, draw 5%, and lose 0%. The expected value of the distribution of distributions might be 80%/5%/15% - if you average over our moods, sleep schedules, which color we get, and a host of other factors, perhaps those are the numbers you get. And the expected value of that final distribution, over the course of one single game, might be that I win.
+
+If my opponent complains that I got lucky, he might be right. It might be luck that I was playing white. It might be luck that I was better rested than him. And even holding those effects constant, it might be luck that I won that game, rather than the 15% that I would lose, on average.
+
+Of course he might be wrong. He might have lost because he was on the phone during the game - that would be his fault. But I should not dismiss the impact of luck out of hand. The only way to control for luck is to play a large number of games, in a variety of settings. This is why world championship matches used to be 24+ games, and often they would take place in more than one city.
+
+I want to quickly address where the luck in chess originates. On every move of the game, we each have a certain small chance of making a big mistake, and a comparably larger chance of making a small mistake. When I was younger I would often be afraid of playing weaker, lower-rated players - what if they somehow came up with good moves, for just this one game? No matter how weak my opponent, they might just find five great moves in a row and beat me. And this is true. But the definition of being a weaker player is that the probability that they find five great moves in a row is much lower than mine, because on any given move they are more likely to make an error. The odds that a weaker player can find 40 good moves in a row is virtually zero.
+
+And of course if we were playing poker, my opponent's claim that I got lucky would hold more water. This is not because there is a fundamentally different decision structure. There is still a certain chance at each action that I or my opponent will make a small or large error. But this is compounded by an amount of randomness that is independent of the player. So even if you can't blame the luck on your or your opponent's decisions, it is easy to blame the luck on the deck.
+
+It may not be possible to fully understand to what extent a game of chess was decided by luck or skill. And I suspect that when my opponent claims I got lucky, they might just mean that they would have won had they not made a huge mistake after and otherwise strong game. Regardless, thinking about outcomes in a probabilistic way has helped me overcome my misconception that there is no luck in chess.

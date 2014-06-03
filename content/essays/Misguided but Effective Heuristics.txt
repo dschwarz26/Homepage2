@@ -1,0 +1,70 @@
+2012-12-07
+I’ve been ruminating on a series of rules people follow that have two criteria in common:
+
+They are effective.
+The people who follow them have a misguided view of why they are effective.
+I find these types of rules interesting because they are rational in the sense that one learns one such rule, experiments with it, concludes that it is effective, and adopts it.  But at no point in the process do they understand the underlying mechanism.  So I deem these Misguided but Effective Heuristics, or MEHs.  In some cases, were people to understand the underlying mechanism, they would be able to come up with a more effective rule.
+
+Here are the examples I’ve found.
+
+1. Don’t mix different types of alcohol in one night.
+
+Effect: Less reckless behavior, milder hangovers.
+
+Why people think it works: The folk theory is that different types of alcohols synergize to make you more intoxicated, or more hungover, than each type of alcohol would make you on its own.
+
+Why it actually works: This rule helps prevent us from drinking too much.  The easiest way to consume too much alcohol is to have many different types.  It’s not too hard to have ten drinks by having a few beers, a few glasses of wine, and some bar drinks.  But if you stick only to beer, or only to wine, or only to mint juleps, it’s very hard to consume 10 drinks.
+
+Better rule: Don’t drink more than 5 drinks in one night.
+
+2. Don’t eat ice cream before bed.
+
+Effect: Better sleep, less nightmares.
+
+Why people think it works: Ice cream causes nightmares.
+
+Why it actually works: In actuality, excessive overeating before bed causes nightmares.  Eating ice cream before bed is highly correlated with excessive overeating, because ice cream is usually consumed in addition to a full meal.  If people were to eat only ice cream, and not a full meal in addition, they would not have nightmares, even if they consumed it right before bed.
+
+Better rule: Don’t overeat before bed.
+
+(Similar logic applies to the “Don’t eat for half an hour before swimming” rule.)
+
+3. Tap the top of a recently shaken can of soda before opening it to prevent it from exploding.
+
+Effect: The soda is less likely to explode.
+
+Why people think it works: ??? (perhaps driving the carbon dioxide away from the lid?)
+
+Why it actually works: Tapping the top of the soda forces you to hold the can steady and wait before opening it.  The longer you wait, the more the carbon dioxide released by shaking the soda will be reabsorbed into the liquid.
+
+Better rule: Wait before opening a recently shaken can of soda, and keep it immobile.
+
+4. (For certain religions) Don’t eat pork/beef/any meat/<insert some religion’s forbidden food> in order to be closer to God
+
+Effect: People are closer to God
+
+Why people think it works: God is displeased when you eat pork/beef/any meat/<insert some religion’s forbidden food>
+
+Why it actually works: Random dietary restrictions force people to eat with others with the same random dietary restrictions, thus preventing them from being exposed to ideas that challenge one’s beliefs.  (There are also other reasons that this works.)
+
+Better rule: Eat with family and friends of the same religion as you.
+
+5. Consume massive amounts of protein after lifting weights.
+
+Effect: More muscle growth and strength building.
+
+Why people think it works: When you lift weights, all the extra protein in your system gets converted to muscle.
+
+Why it actually works: Again, this behavior is only correlated with optimal muscle growth.  Consuming insufficient protein will prevent optimal muscle growth, and overeating protein maximizes the chance that you haven’t undereaten protein.  Statistically speaking, those who overeat protein will fair better than those who don’t.
+
+Better rule: Eat 1 gram of protein per 1 kilogram of body weight after a full body lift.
+
+6. Running in jeans helps you lose weight.
+
+Effect: Weight loss
+
+Why people think it works: Constraining your legs into tight jeans will force your body to burn fat from your legs. Alternatively, you will burn more calories by sweating more.
+
+Why it actually works: Running is much harder in jeans, so if you run the same speed and distance, you will be burn more calories. However, if wearing jeans makes running so uncomfortable that you don't run the same distance or speed, this heuristic may be coutereffective.
+
+Better rule: Wear whatever allows you to exert yourself the most when you exercise.

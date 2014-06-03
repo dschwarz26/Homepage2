@@ -1,0 +1,37 @@
+2013-04-23
+Here I will make a very basic attempt at evaluating the ethics of eating meat.  Previously I argued that while it was clearly unethical to some degree to eat meat, the good that would come from shifting to vegetarianism is tiny compared to the good that comes from other causes (existential risks come to mind).  But that was a relative argument.  Now I will briefly explore the absolute level of moral wrongness associated with killing animals.
+
+What is unethical about shooting a cow in the head?  I believe we can answer this by examining what is unethical about shooting a human in the head.  My thesis is that there are five, and only five, reasons why it is wrong to shoot a human being in the head*.  Thus I claim that the extent that these five reasons apply to cows is the full extent to which shooting a cow in the head is unethical.
+
+The five reasons that it is wrong to shoot someone in the head are:
+
+The victim will feel some amount of pain
+The victim is deprived of their right to live their life
+Those who care about the victim will feel some amount of grief and sorrow
+The good for the world that the victim would have done will not be realized
+Other people will experience the fear of also being shot (i.e. the terrorism effect)
+I posit that, if none of these five conditions hold, it is in fact not unethical to shoot a person in the head.  Specifically, I believe that it is morally permissible to shoot a person in the head provided that:
+
+The victim will feel no pain
+The victim willingly forfeits their right to life (i.e. wants to die)
+Those who know the victim will experience no grief or sorrow
+The victim would not have otherwise done good for the world
+No one will fear that they will also be shot
+To what extent do these five conditions hold for cows in modern slaughterhouses?  My personal belief and understanding is that:
+
+The cow will feel no pain
+The cow does not have sufficient autonomy to have a right to choose to live or die
+No human, cow, or other creature will experience grief or sorrow
+The cow would not do more good for the world than it will by being eaten (in fact I think cows have a negative impact on the world due to greenhouse emissions and overgrazing)
+No other cow will fear being slaughtered
+I wrote in the beginning of this post that I do still feel that eating meat is unethical.  But it is only because I believe that these five conditions are not absolutely true.  I believe that (1), (2), and (3) do not strictly hold.  The cow will feel some small amount of pain, the cow does have a sufficiently developed brain to have some primitive autonomy, and other cows will experience some small amount of grief.
+
+I must make clear that I am only considering the ethics of shooting the cow.  There are almost certainly unethical components to the living conditions of the cow prior to being shot.  I believe this is where most of the practical ethical concerns of eating meat lie.
+
+One implication of this reasoning is that I find eating monkeys and dolphins to be significantly more unethical than eating cows, mostly by reason (3) and a little bit by reason (2).  Another implication is that I do not find it wrong to kill and eat another human being in specific, extreme circumstances, i.e. I do not see an a priori reason against it.
+
+I welcome disagreement to this stance, both by challenging the factual status of points (1) through (5) with regard to cows, and also by suggesting other ways in which it is unethical to kill cows (or people) that I have missed.
+
+——————————————
+
+* I am still a utilitarian – if there are ethical reasons against shooting a person, but stronger ethical reasons in support of shooting that person, I would still advocate shooting that person.  For example, if that person would otherwise commit great atrocities, I would consider it ethical to shoot them.  Here I am only looking at the downsides of shooting someone, not the upsides.

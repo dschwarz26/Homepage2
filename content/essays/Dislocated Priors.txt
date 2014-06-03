@@ -1,0 +1,18 @@
+2012-02-22
+Suppose you loan your car to a friend for three months, during which she drives it frequently.  The day after she gives it back to you, you drive it for an hour, at which point the light indicating low tire pressure comes on.
+
+I would immediately start to think how my friend might have damaged my tires.  Was she driving around way too much weight? Did she leave it in freezing conditions for too long?  Did she drive over some broken glass?
+
+After a short reflection, it would become apparent that it is very unlikely that your friend caused the malfunction.  Such car problems happen randomly.  It was equally likely that this would have occurred had she not driven at all.  After all, had she damaged your car, why was the tire pressure fine for the first hour you were driving?
+
+I acknowledge that it is probably the case that wear and tear does, to some small degree, damage car tires and make it more likely for them to leak air.  But the random occurrence of low tire pressure is best described as a Poisson distribution.  The probability of low tire pressure is proportional to the length of the duration that you sample.  The longer that you drive, the more likely that low tire pressure will occur at some point during the drive, but given that it didn’t happen while your friend was using it, it is no more likely to happen now than it always is.  For a binary Poisson process X(t), P(X(t+s) = 1 | s) = P(X(t) = 1).
+
+[If you are unsatisfied by this example, consider the case where you loan your laptop to your friend, and when you get it back, the first time you boot it up Windows goes into a lengthy update process.  You probably wouldn't start worrying about how your friend had damaged your computer (would you?), but wouldn't you be a bit surprised, or at least amused?]
+
+We have notably bad intuition in this regard.  When Rosencrantz and Guildenstern are bewildered at the 80th consecutive coin flip that lands heads, Rosencrantz (Guildenstern?) remarks that, somehow, they should not be surprised.  Given that the coin landed heads 79 times in a row, there’s nothing remarkable about the 80th flip.  But Rosencrantz and Guildenstern, like anyone else would, cannot forget how very unlikely it is for 80 coin flips to land heads.  They don’t think about future events given the current state of the world.  Their prior is fixated at the point before the first coin landed.  The gambler starts measuring his luck when he sits down at the blackjack table.
+
+I’m sure at this point you object – if event B happens immediately after event A, we ought to wonder if they are correlated.  This is exactly the evidence we would see if P(B(t+s)|A(t)) > P(B(t+s)).  Here I am referring only to cases where we know that A and B are independent.  It is true that our reflection about whether our friend damaged the car is warranted.  But our insatiable desire for an explanation for the “odd” timing might deceive us, and prove deleterious to a friendship.  After all, our brains are prediction machines, constantly generating and testing hypotheses about which events are correlated.
+
+Random events in our lives seem inexplicably meaningful when they relate to previous random events.  How often do you catch yourself laughing at the sheer absurdity of a coincidence, or at the delightful irony in a random twist of events?
+
+I can’t help but wonder how our perspective would be different if, instead of anchoring our prior way back before a sequence of events, we were to keep it current.  If we think clearly from the perspective of the (wildly bizarre) state of the world as a given, is what happens really as absurd or ironic as it seems?  Or can we simply not help weaving together a narrative, and seeing patterns in the dust?

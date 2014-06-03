@@ -1,0 +1,45 @@
+2011-10-14
+We make utility swaps, as I call them, many times a day.  Any time we sacrifice a bit of our utility for the benefit of someone else, or any time we ask someone to sacrifice a bit of their utility for our benefit, we engage in a social contract.  The utility we exchange can be in the form of time, attention, money, or anything else we value.  My goal in this post is to make explicit some of the unconscious algorithms we use in making utility swaps, and present a conscious strategy to enhance the value we derive from utility swaps.
+
+Let us consider the following example.  Suppose you are busy writing a blog post, and your friend asks you to drive her to the train station. What goes into your calculation of whether or not to oblige?
+
+First, you must estimate the value your friend would gain from your favor.  This hinges on her alternatives – is it close enough for her to walk or bike?  Could she take a bus?  Is there a someone less busy who could take her instead?
+
+Second, you must estimate the value you would lose by obliging your friend.  Are you legitimately very busy?  Would the drive be easy or stressful?  Will you derive value or experience pain from the conversation in the car?  Might the drive allow you to conveniently run an errand you needed to run anyway?
+
+Thirdly and lastly, you must evaluate the meta-strategy of the contract.  Would your friendship be significantly strengthened by doing the favor, or significantly weakened if you didn’t?  Would your friend appreciate the favor to such an extent that you would derive value simply by seeing her happy?  Might she be more willing to do favors for you in the future?
+
+
+
+On the one hand, it’s surprising how many variables go into a decision like this.  But those who take morality seriously shouldn’t really be surprised by the true complexity of seemingly simple decisions.  How is it that we make such decisions in just a few seconds deliberation, and yet feel confident that we made the right choice?
+
+Since the actual brain process that handles this type of calculation is almost entirely unknown, I’ll leave out the neuroscientific speculation.  In this post I want to address only a small component of the calculation: how do we make the final call, once we’ve estimated the utilities?
+
+Suppose I estimate that taking my friend to the train station will provide her with 12 utility while costing me 10 utility [1].  In this scenario, I personally would offer my friend the ride for two reasons.  Firstly, as a utilitarian, I see no reason to discriminate based on the first person/third person divide, and I am morally obligated to choose the higher value. Secondly, since I answer “yes” to the question “If I were in her situation, would it be reasonable for me to ask her to do me the favor?”, I am morally obligated to oblige. I should note that, while I can’t prove it right now, I believe these two justifications are equivalent [2].
+
+Most people I know (myself included) often have a multiplier on their utility.  I call this a “moral multiplier”.  If someone has a moral multiplier greater than one, conventionally we consider that person to be selfish; if someone has a moral multiplier less than one, conventionally we consider that person to be nice (or moral, or selfless, or a mensch).  For example, if Bad Barry will only give you a ride to the train station if you are desperate – perhaps it would give you 100 utility and cost him 10 – then he has a multiplier of at least 10, and that makes him selfish.  And if Good Guy Greg will give you a ride to the train station, even if he really needs to get his blog post done – perhaps it will give you 10 utility and cost him 40 – then he has a multipler no higher than .25.  The moral multiplier is a measurement of how much a person values their own utility relative to others [3].
+
+From a strict utilitarian standpoint, having a moral multiplier above or below 1 is equally deleterious.  A society achieves a maximum total utility when all of its inhabitants have a multiplier of exactly 1.  If this isn’t obvious, think through why it must be so.
+
+At this point, you might be wondering why I’ve defined my terms in a way where it is immoral to be nice.  In fact this is not the case, but the reason why is subtle and has taken me a long time to understand.
+
+The key is that, through high level cognition, we have control over our own utility function. Suppose in the train example that my friend would derive 9 utility from the ride, and it would cost me 10.  If our personal utility functions are immutable, then I am morally obligated not to give her a ride.  But personal utility functions are in fact mutable.  I have some amount of control over my utility function.  By changing my mindset, I might be able to reduce the amount of utility that providing the ride will cost me.  Perhaps I can get myself to appreciate my friend’s company more than I would by default.  Perhaps I can use the serene drive back as an opportunity to reflect.  There are a host of techniques for modulating one’s utility function – in fact, schools of thought such as Buddhism and Stoicism are built around this idea.
+
+Although changing one’s own valuation is easier and more successful, in general, than trying to change your partner’s valuation, the latter is not impossible.  There are even several ways to leave your utility constant, but buffer your partners’ utility such that the swap becomes favorable.  For example, I might commit a white lie and tell my friend that I was thinking about going on a drive anyway, and this is just the excuse I needed.  By removing her guilt that I had to inconvenience myself, perhaps her utility from getting the ride will jump from 9 to 15, and now the swap is advantageous.
+
+So there are many opportunities for us to be moral in such situations.  We must first do an accurate, unbiased estimate of the utilities at stake.  This is no easy task.  Then we must refrain from allowing ourselves to be selfish or a push-over, and keep our multiplier as near to 1 as possible.  Then we must look for any opportunities we might have to skew the gains and losses so as to maximize the value of a contract.
+
+My three take-home points are:
+
+There is an incredible amount of complexity is small, everyday decisions.
+Often it is wise to add conscious deliberation to our unconscious, 2-second moral decisions.
+There are many, many opportunities to do small amounts of good.
+
+
+——————–
+
+[1] For those wondering why I am relying on values that don’t actually exist, the only important feature is the ratio of the utilities.  I give each person a value for numerical simplicity.
+
+[2] See John Rawls’ famous book, A Theory of Justice.
+
+[3] Of course we don’t make the mistake that economists made before the advent of behavioral economics and assume that people have one constant moral multiplier. People’s moral multipliers will change hour to hour, day to day, depending on a host of factors.  To judge a person as selfish or nice in general will be a judgment on that person’s moral multiplier distribution.

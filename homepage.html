@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+{% autoescape true %}
+<html>
+    <head>
+    <link rel='shortcut icon' href='http://dschwarz.pythonanywhere.com/static/favicon.ico' type='image/ico' />
+        <h1>Dan Schwarz</h1></head>
+        <body>
+            <table>
+                <tr>
+                    <th>Projects</th>
+                    <th>Essays</th>
+                    <th>Biopics</th>
+                    <th>Personal</th>
+                    <th>Links</th>
+                </tr>
+                {% for essay in essays %}
+                <tr>
+                    {% if loop.index0 < projects|length %}
+                    <td><li><a href=''>{{projects[loop.index0]}}</a></li></td>
+                    {% else %}
+                    <td></td>
+                    {% endif %}
+                    {% if loop.index0 < essays|length %}
+                    <td><li><a href='localhost:8080/essay/{{essays[loop.index0].title}}'>{{essays[loop.index0].title}}</a></li></td>
+                    {% else %}
+                    <td></td>
+                    {% endif %}
+                    {% if loop.index0 < biopics|length %}
+                    <td><li><a href='b'>{{biopics[loop.index0].title}}</a></li></td>
+                    {% else %}
+                    <td></td>
+                    {% endif %}
+                    {% if loop.index0 < personals|length %}
+                    <td><li><a href='pe'>{{personals[loop.index0].title}}</a></li></td>
+                    {% else %}
+                    <td></td>
+                    {% endif %}
+                    {% if loop.index0 < links|length %}
+                    <td><li><a href='l'>{{links[loop.index0]}}</a></li></td>
+                    {% else %}
+                    <td></td>
+                    {% endif %}
+                </tr>
+                {% endfor %}
+            </table>
+        </body>
+    </head>
+</html>
+{% endautoescape %}
