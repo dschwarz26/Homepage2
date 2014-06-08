@@ -1,0 +1,12 @@
+table {
+  table-layout: fixed;
+  width: 850px;
+}
+th {
+  overflow: hidden;
+  text-align: left;
+}
+td {
+  overflow: hidden;
+  font-size: 14px;
+}

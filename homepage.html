@@ -1,49 +1,50 @@
 <!DOCTYPE HTML>
 {% autoescape true %}
 <html>
-    <head>
-    <link rel='shortcut icon' href='http://dschwarz.pythonanywhere.com/static/favicon.ico' type='image/ico' />
-        <h1>Dan Schwarz</h1></head>
-        <body>
-            <table>
-                <tr>
-                    <th>Projects</th>
-                    <th>Essays</th>
-                    <th>Biopics</th>
-                    <th>Personal</th>
-                    <th>Links</th>
-                </tr>
-                {% for essay in essays %}
-                <tr>
-                    {% if loop.index0 < projects|length %}
-                      <td><li><a href={{projects[loop.index0].link}}>{{projects[loop.index0].name}}</a></li></td>
-                    {% else %}
-                      <td></td>
-                    {% endif %}
-                    {% if loop.index0 < essays|length %}
-                      <td><li><a href='/essay/{{essays[loop.index0].title_no_spaces}}'>{{essays[loop.index0].title}}</a></li></td>
-                    {% else %}
-                      <td></td>
-                    {% endif %}
-                    {% if loop.index0 < biopics|length %}
-                      <td><li><a href='/biopic/{{biopics[loop.index0].title_no_spaces}}'>{{biopics[loop.index0].title}}</a></li></td>
-                    {% else %}
-                      <td></td>
-                    {% endif %}
-                    {% if loop.index0 < personals|length %}
-                      <td><li><a href='/personal/{{personals[loop.index0].title_no_spaces}}'>{{personals[loop.index0].title}}</a></li></td>
-                    {% else %}
-                      <td></td>
-                    {% endif %}
-                    {% if loop.index0 < links|length %}
-                      <td><li><a href={{links[loop.index0].link}}>{{links[loop.index0].name}}</a></li></td>
-                    {% else %}
-                      <td></td>
-                    {% endif %}
-                </tr>
-                {% endfor %}
-            </table>
-        </body>
-    </head>
+  <head>
+  <link rel="stylesheet" type="text/css" href="/stylesheets/homepage.css" />
+  <link rel='shortcut icon' href='http://dschwarz.pythonanywhere.com/static/favicon.ico' type='image/ico' />
+    <h1>Dan Schwarz</h1></head>
+    <body>
+      <table>      
+        <tr>
+          <th width="20%">Projects</th>
+          <th width="28%">Essays</th>
+          <th width="17%">Biopics</th>
+          <th width="20%">Personal</th>
+          <th width="15%">Links</th>
+        </tr>
+        {% for essay in essays %}
+        <tr>
+          {% if loop.index0 < projects|length %}
+            <td><li><a href={{projects[loop.index0].link}}>{{projects[loop.index0].name}}</a></li></td>
+          {% else %}
+            <td></td>
+          {% endif %}
+          {% if loop.index0 < essays|length %}
+            <td><li><a href='/essay/{{essays[loop.index0].title_no_spaces}}'>{{essays[loop.index0].title}}</a></li></td>
+          {% else %}
+            <td></td>
+          {% endif %}
+          {% if loop.index0 < biopics|length %}
+            <td><li><a href='/biopic/{{biopics[loop.index0].title_no_spaces}}'>{{biopics[loop.index0].title}}</a></li></td>
+          {% else %}
+            <td></td>
+          {% endif %}
+          {% if loop.index0 < personals|length %}
+            <td><li><a href='/personal/{{personals[loop.index0].title_no_spaces}}'>{{personals[loop.index0].title}}</a></li></td>
+          {% else %}
+            <td></td>
+          {% endif %}
+          {% if loop.index0 < links|length %}
+            <td><li><a href={{links[loop.index0].link}}>{{links[loop.index0].name}}</a></li></td>
+          {% else %}
+            <td></td>
+          {% endif %}
+        </tr>
+        {% endfor %}
+      </table>
+    </body>
+  </head>
 </html>
 {% endautoescape %}
