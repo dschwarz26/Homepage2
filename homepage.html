@@ -16,29 +16,29 @@
                 {% for essay in essays %}
                 <tr>
                     {% if loop.index0 < projects|length %}
-                    <td><li><a href=''>{{projects[loop.index0]}}</a></li></td>
+                      <td><li><a href={{projects[loop.index0].link}}>{{projects[loop.index0].name}}</a></li></td>
                     {% else %}
-                    <td></td>
+                      <td></td>
                     {% endif %}
                     {% if loop.index0 < essays|length %}
-                    <td><li><a href='localhost:8080/essay/{{essays[loop.index0].title}}'>{{essays[loop.index0].title}}</a></li></td>
+                      <td><li><a href='/essay/{{essays[loop.index0].title_no_spaces}}'>{{essays[loop.index0].title}}</a></li></td>
                     {% else %}
-                    <td></td>
+                      <td></td>
                     {% endif %}
                     {% if loop.index0 < biopics|length %}
-                    <td><li><a href='b'>{{biopics[loop.index0].title}}</a></li></td>
+                      <td><li><a href='/biopic/{{biopics[loop.index0].title_no_spaces}}'>{{biopics[loop.index0].title}}</a></li></td>
                     {% else %}
-                    <td></td>
+                      <td></td>
                     {% endif %}
                     {% if loop.index0 < personals|length %}
-                    <td><li><a href='pe'>{{personals[loop.index0].title}}</a></li></td>
+                      <td><li><a href='/personal/{{personals[loop.index0].title_no_spaces}}'>{{personals[loop.index0].title}}</a></li></td>
                     {% else %}
-                    <td></td>
+                      <td></td>
                     {% endif %}
                     {% if loop.index0 < links|length %}
-                    <td><li><a href='l'>{{links[loop.index0]}}</a></li></td>
+                      <td><li><a href={{links[loop.index0].link}}>{{links[loop.index0].name}}</a></li></td>
                     {% else %}
-                    <td></td>
+                      <td></td>
                     {% endif %}
                 </tr>
                 {% endfor %}

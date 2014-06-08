@@ -14,10 +14,49 @@ class Homepage(webapp2.RequestHandler):
   def get(self):
 
     projects = [
-      'github.com/dschwarz26/PokerBots',
+      {
+        'name': 'Poker Simulator',
+        'link': 'poker-simulator.appspot.com'
+      },
+      {
+        'name': 'Chess Notifier',
+        'link': 'chessnotifier.appspot.com'
+      },
+      {
+        'name': 'Bitcoin Prediction Trader',
+        'link': 'predictiousbot.appspot.com'
+      },
+      {
+        'name': 'Homepage Source',
+        'link': 'https://github.com/dschwarz26/Homepage2'
+      }, 
     ]
+
     links = [
-      'www.keithschwarz.com',
+      {
+        'name': 'Facebook',
+        'link': 'https://www.facebook.com/daniel.schwarz.735'
+      },
+      {
+        'name': 'Twitter',
+        'link': 'https://twitter.com/dschwarz26'
+      },
+      {
+        'name': 'LinkedIn',
+        'link': 'https://www.linkedin.com/profile/view?id=192589584'
+      },
+      {
+        'name': 'Github',
+        'link': 'https://github.com/dschwarz26'
+      },
+      {
+        'name': 'Keith Schwarz',
+        'link': 'http://www.keithschwarz.com'
+      },
+      {
+        'name': 'Joseph Schwarz',
+        'link': 'http://www.josephschwarz.com'
+      }
     ]
 
     template = JINJA_ENVIRONMENT.get_template('homepage.html')
@@ -30,17 +69,17 @@ class Homepage(webapp2.RequestHandler):
       }
     self.response.write(template.render(template_values))
 
-class Essaypage(webapp2.RequestHandler):
+class Entrypage(webapp2.RequestHandler):
 
   def get(self, title):
-    template = JINJA_ENVIRONMENT.get_template('essay.html')
+    template = JINJA_ENVIRONMENT.get_template('entry.html')
     
-    entries = Entry.query(Entry.title == title).fetch()
+    entries = Entry.query(Entry.title_no_spaces == title).fetch()
     if entries:
       entry = entries[0]
       template_values = {
         'title': entry.title,
-        'published_date': entry.published_date,
+        'published_date': entry.publish_date,
         'content': entry.content
       }
       self.response.write(template.render(template_values))
@@ -49,7 +88,9 @@ class Essaypage(webapp2.RequestHandler):
 
 application = webapp2.WSGIApplication([
   ('/', Homepage),
-  ('/essay/(\.*)', Essaypage),
+  ('/essay/(\w+)', Entrypage),
+  ('/personal/(\w+)', Entrypage),
+  ('/biopic/(\w+)', Entrypage),
 ], debug = True)
 
 logging.getLogger().setLevel(logging.DEBUG)
