@@ -61,9 +61,9 @@ class Homepage(webapp2.RequestHandler):
 
     template = JINJA_ENVIRONMENT.get_template('homepage.html')
     template_values = {
-      'essays': Entry.query(Entry.category == 'essay').fetch(),
-      'biopics': Entry.query(Entry.category == 'biopic').fetch(),
-      'personals': Entry.query(Entry.category == 'personal').fetch(),
+      'essays': Entry.query(Entry.category == 'essay').order(Entry.rank).fetch(),
+      'biopics': Entry.query(Entry.category == 'biopic').order(Entry.rank).fetch(),
+      'personals': Entry.query(Entry.category == 'personal').order(Entry.rank).fetch(),
       'links': links,
       'projects': projects
       }

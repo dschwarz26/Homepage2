@@ -1,0 +1,5 @@
+indexes:
+- kind: Entry
+  properties:
+    - name: category
+    - name: rank
