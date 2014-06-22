@@ -1,28 +1,31 @@
 2014-03-02
-Here’s Taleb’s self-biography:
+<p>Here’s Taleb’s self-biography from his website:</p>
 
-Nassim N. Taleb spent 20 years as a derivatives trader and, after closing 650,000 option transactions and examining 200,000 risk reports, he changed careers in 2006 to become a scholar and philosophical essayist. Taleb is currently Distinguished Professor of Risk Engineering at New York University’s Polytechnic Institute, but he limits to a 1/4 position and self-funds his research and operates in the manner of independent scholars. He is the author of a 4 volume philosophical essay on uncertainty, Incerto (Antifragile (2012), The Black Swan (2007–2010), Fooled by Randomness (2001) and The Bed of Procrustes (2010)) as well as a mathematical parallel version, Silent Risk (freely available). His collected scientific papers are here.
+<p><i>Nassim N. Taleb spent 20 years as a derivatives trader and, after closing 650,000 option transactions and examining 200,000 risk reports, he changed careers in 2006 to become a scholar and philosophical essayist. Taleb is currently Distinguished Professor of Risk Engineering at New York University’s Polytechnic Institute, but he limits to a 1/4 position and self-funds his research and operates in the manner of independent scholars. He is the author of a 4 volume philosophical essay on uncertainty, Incerto (Antifragile (2012), The Black Swan (2007–2010), Fooled by Randomness (2001) and The Bed of Procrustes (2010)) as well as a mathematical parallel version, Silent Risk (freely available). His collected scientific papers are here.</i></p>
 
-Taleb’s works focuses on decision making under opacity, as well as mathematical and philosophical problems with probability, in other words on “what to do in a world we don’t understand” as well as on the properties of systems that can handle disorder.
+<p>Taleb’s works focuses on decision making under opaque conditions, as well as mathematical and philosophical problems with probability. In other words, he studies “what to do in a world we don’t understand” as well as on the properties of disordered systems.<p>
 
-I have read The Black Swan and am reading Antifragile. In my understanding, Taleb has performed a quadfecta of feats of rationality. He
+<p>I have read The Black Swan and am reading Antifragile. In my understanding, Taleb has performed a quadfecta of feats of rationality.</p>
 
-(1) Insight – He identified a systematic error of reasoning.
+<br><ol>
+<li> Insight – He identified a systematic error of reasoning.</li>
 
-He discovered, over the course of working as an options trader, that the tails of the distributions that the financial community used for a variety of underlying instruments were greatly underestimated.
+<p>He discovered, over the course of working as an options trader, that the tails of the distributions that the financial community used for a variety of underlying instruments were greatly underestimated.</p>
 
-(2) Understanding – He studied the underlying psychology behind the error.
+<li> Understanding – He studied the underlying psychology behind the error.</li>
 
-According to Taleb, the tendency to be overconfident in the tendency for variables to tend to normally distributions (i.e. the assumption that they are independent and identically distributed) is based on errors such as Platonicity, over-reliance on theory / under-reliance on practice, and slow adoption of nonlinear dynamics and fractal geometry.
+<p>According to Taleb, the tendency to be overconfident in the tendency for variables to tend to normally distributions (i.e. the assumption that they are independent and identically distributed) is based on errors such as Platonicity, over-reliance on theory / under-reliance on practice, and slow adoption of nonlinear dynamics and fractal geometry.</p>
 
-(3) Profit - Taleb made sure to gain personally from his insight.
+<li> Profit - Taleb made sure to gain personally from his insight.</li>
 
-In addition to successfully taking advantage of systematic mispricings as an options trader, by his own admission, Taleb has multiplicatively increased his net worth approximately once a decade – first with the 1987 flash crash, then the 1999-2001 internet bubble, and recently with the 2008 Great Recession, which he predicted in detail in his 2006 book The Black Swan.
+<p>In addition to successfully taking advantage of systematic mispricings as an options trader, by his own admission, Taleb has multiplicatively increased his net worth approximately once a decade – first with the 1987 flash crash, then the 1999-2001 internet bubble, and recently with the 2008 Great Recession, which he predicted in detail in his 2006 book The Black Swan.</p>
 
-(4) Impact – He has made a subtantial impact in erasing the error on a global scale.
+<li> Impact – He has made a subtantial impact in erasing the error on a global scale.</li>
 
-Taleb’s books have been extremely successful. The Black Swan is a household name for anyone in finance or statistics. He continues to lecture, debate, and write at a rapid pace. He is known for his extremely confrontational, anti-bullshit rhetorical style. He quite often synthesizes writings from past civilizations and broadens his technical points into philosophical ones. He is well respected in the statistical, financial, and philosophical communities.
+<p>Taleb’s books have been extremely successful. The Black Swan is a household name for anyone in finance or statistics. He continues to lecture, debate, and write at a rapid pace. He is known for his extremely confrontational, anti-bullshit rhetorical style. He quite often synthesizes writings from past civilizations and broadens his technical points into philosophical ones. He is well respected in the statistical, financial, and philosophical communities.</p>
 
-I can understand how many people would be satisfied by accomplishing some, but not all, of the above. For example, a path from (1) Insight to (2) Understanding to (3) Profit is success in its own right – technologists come to mind. Likewise, (1) Insight to (2) Understanding to (4) Impact is a common trajectory – think academics. Also, the second step, understanding, may be optional (Did Jobs understand why his design intuition was popular? Did MLK understand the true sociological and evo-psych causes of racism? Maybe.)
+<br></ol>
 
-But I maintain that the full trajectory, (1) through (4), is the best goal.
+<p>I can understand how many people would be satisfied by accomplishing some, but not all, of the above. For example, a path from (1) Insight to (2) Understanding to (3) Profit is success in its own right – technologists come to mind. Likewise, (1) Insight to (2) Understanding to (4) Impact is a common trajectory – think academics. Also, the second step, understanding, may be optional (Did Jobs understand why his design intuition was popular? Did MLK understand the true sociological and evo-psych causes of racism? Maybe.)</p>
+
+<p>But I maintain that the full trajectory, (1) through (4), is the best goal.</p>

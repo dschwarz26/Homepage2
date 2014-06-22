@@ -1,20 +1,30 @@
 2013-03-31
-After over a year of procrastinating, I am finally performing my duty as a citizen-scientist and investigating nootropics.  (Technically I started a year ago with DHA, but omega-3s have the benefits of being (1) low-hanging fruit, (2) a preventative measure, not an enhancer, (3) socially acceptable, and (4) completely harmless.)
+<p>After over a year of procrastinating, I am finally performing my duty as a citizen-scientist and investigating nootropics.  (Technically I started a year ago with DHA, but omega-3s have the benefits of being (1) low-hanging fruit, (2) a preventative measure, not an enhancer, (3) socially acceptable, and (4) completely harmless.)</p>
 
-Currently my stack is DHA, potassium, green tea (notably l-theanine and caffeine), creatine, piracetam, and choline.
+<p>Currently my stack is DHA, potassium, green tea (l-theanine and caffeine), creatine, piracetam, and choline.</p>
 
-My research sources primarily come from http://www.gwern.net/Nootropics and www.reddit.com/r/nootropics, as well as the relevant wikipedia articles.
+<p>My research sources primarily come from <a href="http://www.gwern.net/Nootropics"> and <a href="www.reddit.com/r/nootropics">, as well as the relevant wikipedia articles.</p>
 
-I plan to update this post based on whatever I learn that is in contrast to the expected benefits, both above and below expected performance.
+<p>I plan to update this post based on whatever I learn that is in contrast to the expected benefits, both above and below expected performance.</p>
 
-——
-
+<br>
+——————————
+<br>
 Update: June 2013
+<br>
+<p>I have found a noticeable increase in lucidity as well as mental reaction time/acuity.  It is hard to compare this increase with the general increase with time that I’ve had all of my life so far.</p>
 
-I have found a noticeable increase in lucidity as well as mental reaction time/acuity.  It is hard to compare this increase with the general increase with time that I’ve had all of my life so far.
+<p>My alcohol tolerance is astonishingly high.  This change happened rapidly within 2 weeks of beginning the stack and only decreased temporarily when I took a week off all nootropics.</p>
 
-My alcohol tolerance is astonishingly high.  This change happened rapidly within 2 weeks of beginning the stack and only decreased temporarily when I took a week break from the stack.
+<p>My mental health is shattered.  I assign a <5% chance that there is any connection with this and the nootropics, as I have undergone significant upheaval in my life.</p>
 
-My mental health is shattered.  I assign a <5% chance that there is any connection with this and the nootropics, as I have undergone significant upheaval in my life.
+<p>I am still not nearly as awake as I’d like to be for as long as I’d like to be.</p>
 
-I am still not nearly as awake as I’d like to be for as long as I’d like to be.
+<br>
+——————————
+<br>
+Update: June 2014
+<br>
+<p>I took a six month break after Burning Man 2013 until starting work at Google. During that time I felt that I wouldn't have benefited from cognitive enhancement, as I wasn't producing intellectual work. I'm struggling against a tendency to self-handicap - by not using all available cognitive resources, I can feel better about mistakes that I make and opportunities that I miss.</p>
+
+<p>Now that I'm at Google, and I'm operating at a near maximal intellectual capacity, I am restarting my usage.</p>

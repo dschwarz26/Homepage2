@@ -81,7 +81,7 @@ def read_in_entries(entry_order, entry_dir, category):
               publish_date = datetime.date(int(date_tokens[0]), int(date_tokens[1]), int(date_tokens[2])),
               content = o.read(),
               rank = entry_order.index(name))
+            entry.put()
           except ValueError:
             logging.error('Entry %s not in list' % name)
-          entry.put()
 

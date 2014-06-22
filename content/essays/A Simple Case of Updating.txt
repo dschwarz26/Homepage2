@@ -1,45 +1,53 @@
 2013-09-03
-Suppose you’re starting to get to know Taylor, a friend you’ve recently met.  He or she has just turned 25.  To your surprise, discover that he/she has been married for a year.
+<p>Suppose you’re starting to get to know Taylor, a friend you’ve recently met.  He or she has just turned 25.  To your surprise, discover that he/she has been married for a year.</p>
 
-In what way might it be appropriate to update your model of this person?
+<p>In what way might it be appropriate to update your model of this person?</p>
 
-Before I suggest an answer, I must start with this: are you wary of the notion of making presumptions about someone just because you found out that he or she married younger than you would have guessed?
+<p>Before I suggest an answer, I must start with this: are you wary of the notion of making presumptions about someone just because you found out that he or she married younger than you would have guessed?</p>
 
-I don’t think you should be wary – I think we should be comfortable with the process of working on probable information.  And of course taking guesses about this person simply means taking guesses. If you think it’s a bit more likely that they are a kind person, that doesn’t mean you know for sure that they are kind.  You just think it’s more likely.  Don’t make assumptions, make educated guesses.
+<p>I don’t think you should be wary – I think we should be comfortable with the process of working on probable information.  And of course taking guesses about this person simply means taking guesses. If you think it’s a bit more likely that they are a kind person, that doesn’t mean you know for sure that they are kind.  You just think it’s more likely.  Don’t make assumptions, make educated guesses.</p>
 
-(I have other answers why I think you shouldn’t be wary.  Maybe they are apparent in other posts.)
+<p>(I have other answers why I think you shouldn’t be wary.  Maybe they are apparent in other posts.)</p>
 
-But here I want to make a simple point that is easy to forget.  We don’t really know anything about anyone.  Not for sure, anyway.  All that evidence of what they’ve done: what they’ve said, their choice of habits, their facial expressions and tone of voice and posture, tough decisions they have made, is just that – evidence.  Everything that you learn about them informs your ability to understand what they are like [1].
+<p>But here I want to make a simple point that is easy to forget.  We don’t really know anything about anyone.  Not for sure, anyway.  All that evidence of what they’ve done: what they’ve said, their choice of habits, their facial expressions and tone of voice and posture, tough decisions they have made, is just that – evidence.  Everything that you learn about them informs your ability to understand what they are like [1].</p>
 
-As a quick but important corollary to this point: the more surprised you are to find out that Taylor is married, then the more you learn about Taylor, and the more your model of Taylor ought to change (Bayes theorem).  And just the same, the better you know Taylor upon learning this, the more you ought to be surprised: if you have a higher expectation that your model of Taylor is accurate, you’ll be more shocked to find that Taylor is not the bachelor you thought he was!
+<p>As a quick but important corollary to this point: the more surprised you are to find out that Taylor is married, then the more you learn about Taylor, and the more your model of Taylor ought to change (Bayes theorem).  And just the same, the better you know Taylor upon learning this, the more you ought to be surprised: if you have a higher expectation that your model of Taylor is accurate, you’ll be more shocked to find that Taylor is not the bachelor you thought he was!</p>
 
-Another big disclaimer on the question at hand.  When trying to update your model of Taylor, don’t forget that it is both the things that getting married younger causes, and that with which getting married younger is correlated, that help our understanding of Taylor.  Take the trait of kindness for example.  Any combination of the following explanatory frameworks is fine:
+<p>Another big disclaimer on the question at hand.  When trying to update your model of Taylor, don’t forget that it is both the things that getting married younger causes, and that with which getting married younger is correlated, that help our understanding of Taylor.  Take the trait of kindness for example.  Any combination of the following explanatory frameworks is fine:</p>
+<ul>
+<li>Getting married caused Taylor to become more kind.</li>
+<li>Taylor’s kindness, in part, helped him get married.</li>
+<li>Some other factor led in part to Taylor’s kindness and the fact of his marriage.</li>
+</ul>
 
-Getting married caused Taylor to become more kind.
-Taylor’s kindness, in part, helped him get married.
-Some other factor led in part to Taylor’s kindness and the fact of his marriage.
-We’re just trying to guess if Taylor is in fact a kind person.  We aren’t asking the question of why Taylor is as kind as he is.
+<p>We’re just trying to guess if Taylor is in fact a kind person.  We aren’t asking the question of why Taylor is as kind as he is.</p>
 
-So with those concerns aside I want to take a stab at the question.  I suppose that, when I find out that Taylor is married, in roughly the order of highest to lowest amount of updating, I would update towards Taylor being:
+<p>So with those concerns aside I want to take a stab at the question.  I suppose that, when I find out that Taylor is married, in roughly the order of highest to lowest amount of updating, I would update towards Taylor being:</p>
 
-more conscientious and agreeable, defined normally [2]
-from a religious background
-from a more socially conservative place
-more orderly
-happier
-probably many other minor things
-Now of course, this is what I might start to suspect only if I don’t know Taylor very well!  Perhaps I know other things about Taylor.  Perhaps I know that Taylor is a very accomplished competitive gamer, and highly intelligent for that matter.  How might it be reasonable to update my model of Taylor now?  I think I would consider updating to view Taylor as:
+<ul>
+<li>more conscientious and agreeable, defined normally [2]</li>
+<li>from a religious background</li>
+<li>from a more socially conservative place</li>
+<li>more orderly</li>
+<li>happier</li>
+<li>probably many other minor things</li>
+</ul>
 
-not a typical gamer (in ways other than being unmarried)
-street-smart, aka talented at pragmatism and compromise
-having multi-faced intelligence
-the type of person I would love to learn more about
-That’s it!  I was simply curious to lay out, in a slightly more formal manner, a simple case of understanding someone better by learning more about them.  I felt writing that out was illuminating.
+<p>Now of course, this is what I might start to suspect only if I don’t know Taylor very well!  Perhaps I know other things about Taylor.  Perhaps I know that Taylor is a very accomplished competitive gamer, and highly intelligent for that matter.  How might it be reasonable to update my model of Taylor now?  I think I would consider updating to view Taylor as:</p>
 
-I’m curious what you might guess about Taylor.
+<ul>
+<li>not a typical gamer (in ways other than being unmarried)</li>
+<li>street-smart, aka talented at pragmatism and compromise</li>
+<li>having multi-faced intelligence</li>
+<li>the type of person I would like to learn more about</li>
+</ul>
 
-————————————————
+<p>That’s it!  I was simply curious to lay out, in a slightly more formal manner, a simple case of understanding someone better by learning more about them.  I felt writing that out was illuminating.</p>
 
-[1] Or help you to guess “what it is like to be them”.  See Dennett for more on folk psychology and how reliable it is.  It’s important not to forget that we are often overconfident with our ability to guess what people are thinking and feeling, aka the nefarious Mind Projection Fallacy.
+<p>I’m curious what you might guess about Taylor.</p>
 
-[2] http://en.wikipedia.org/wiki/Big_Five_personality_traits
+<p>————————————————</p>
+
+<p>[1] Or help you to guess “what it is like to be them”.  See Dennett for more on folk psychology and how reliable it is.  It’s important not to forget that we are often overconfident with our ability to guess what people are thinking and feeling, aka the nefarious Mind Projection Fallacy.</p>
+
+<p>[2] <a href="http://en.wikipedia.org/wiki/Big_Five_personality_traits"></p>

@@ -1,34 +1,36 @@
 2012-12-07
-I’ve been ruminating on a series of rules people follow that have two criteria in common:
+<p>I’ve been ruminating on a series of rules people follow that have two criteria in common:</p>
+<br><ul>
+<li>They are effective.</li>
+<li>The people who follow them have a misguided view of why they are effective.</li>
+</ul><br>
 
-They are effective.
-The people who follow them have a misguided view of why they are effective.
-I find these types of rules interesting because they are rational in the sense that one learns one such rule, experiments with it, concludes that it is effective, and adopts it.  But at no point in the process do they understand the underlying mechanism.  So I deem these Misguided but Effective Heuristics, or MEHs.  In some cases, were people to understand the underlying mechanism, they would be able to come up with a more effective rule.
+<p>I find these types of rules interesting because they are rational in the sense that one learns one such rule, experiments with it, concludes that it is effective, and adopts it.  But at no point in the process do they understand the underlying mechanism.  So I deem these Misguided but Effective Heuristics, or MEHs.  In some cases, were people to understand the underlying mechanism, they would be able to come up with a more effective rule.</p>
 
-Here are the examples I’ve found.
+<p>Here are the examples I’ve found.</p>
+<dl>
+<dt>1. Don’t mix different types of alcohol in one night.
 
-1. Don’t mix different types of alcohol in one night.
+<dd>Effect: Less reckless behavior, milder hangovers.</dd>
 
-Effect: Less reckless behavior, milder hangovers.
+<dd>Why people think it works: The folk theory is that different types of alcohols synergize to make you more intoxicated, or more hungover, than each type of alcohol would make you on its own.</dd>
 
-Why people think it works: The folk theory is that different types of alcohols synergize to make you more intoxicated, or more hungover, than each type of alcohol would make you on its own.
+<dd>Why it actually works: This rule helps prevent us from drinking too much.  The easiest way to consume too much alcohol is to have many different types.  It’s not too hard to have ten drinks by having a few beers, a few glasses of wine, and some bar drinks.  But if you stick only to beer, or only to wine, or only to mint juleps, it’s very hard to consume 10 drinks.</dd>
 
-Why it actually works: This rule helps prevent us from drinking too much.  The easiest way to consume too much alcohol is to have many different types.  It’s not too hard to have ten drinks by having a few beers, a few glasses of wine, and some bar drinks.  But if you stick only to beer, or only to wine, or only to mint juleps, it’s very hard to consume 10 drinks.
+<dd>Better rule: Don’t drink more than 5 drinks in one night.</dd>
+</dt>
+<dt>2. Don’t eat ice cream before bed.
 
-Better rule: Don’t drink more than 5 drinks in one night.
+<dd>Effect: Better sleep, less nightmares.</dd>
 
-2. Don’t eat ice cream before bed.
+<dd>Why people think it works: Ice cream causes nightmares.</dd>
 
-Effect: Better sleep, less nightmares.
+<dd>Why it actually works: In actuality, excessive overeating before bed causes nightmares.  Eating ice cream before bed is highly correlated with excessive overeating, because ice cream is usually consumed in addition to a full meal.  If people were to eat only ice cream, and not a full meal in addition, they would not have nightmares, even if they consumed it right before bed.</dd>
 
-Why people think it works: Ice cream causes nightmares.
+<dd>Better rule: Don’t overeat before bed.</dd>
 
-Why it actually works: In actuality, excessive overeating before bed causes nightmares.  Eating ice cream before bed is highly correlated with excessive overeating, because ice cream is usually consumed in addition to a full meal.  If people were to eat only ice cream, and not a full meal in addition, they would not have nightmares, even if they consumed it right before bed.
-
-Better rule: Don’t overeat before bed.
-
-(Similar logic applies to the “Don’t eat for half an hour before swimming” rule.)
-
+<dd>(Similar logic applies to the “Don’t eat for half an hour before swimming” rule.)</dd>
+</dt>
 3. Tap the top of a recently shaken can of soda before opening it to prevent it from exploding.
 
 Effect: The soda is less likely to explode.

@@ -1,37 +1,38 @@
 2011-12-24
-As usual, I will first define a term:
+<p>I will first define a term used in economics:</p>
 
-Signaling: acting with the purpose of causing others to form beliefs (correct or incorrect) about your abilities or accomplishments. [1]
+<ul><li><b>Signaling</b>: acting with the purpose of causing others to form beliefs (correct or incorrect) about your abilities or accomplishments. [1]</li></ul>
 
-I have found my tendency towards signaling is perhaps the most crippling, yet predictable, obstacle I face in achieving my goals.
+<p>I have found my tendency towards signaling is perhaps the most crippling, yet predictable, obstacle I face in achieving my goals.</p>
 
-If you knew me well in 2010-2011, then you might have noticed I was having a crisis of career optimization.  I had staunch utilitarian preferences motivating my behavior, and I was convinced that I ought to choose a career-beginning move with an optimal expectation of world-healing over the course of my life.  (To be clear, I did not have the misconception that my life’s work would be fully decided by my first post-undergraduate job.  Nor did I believe that these utilitarian preferences ought to be the only important consideration in my choice of occupation.)
+<p>If you knew me well in 2010-2011, then you might have noticed I was having a crisis of career optimization.  I had staunch utilitarian preferences motivating my behavior, and I was convinced that I ought to choose a career-beginning move with an optimal expectation of world-healing over the course of my life.  (To be clear, I did not have the misconception that my life’s work would be fully decided by my first post-undergraduate job.  Nor did I believe that these utilitarian preferences ought to be the only important consideration in my choice of occupation.)</p>
 
-Yet I still utterly failed to obtain a job that came close to optimizing my expected world-healing for the first 10 months of my search.  And this failure was not due to what I could easily believe was a mere combination of variance, macroeconomics, my conception of the good or any other ethical confusions.
+<p>Yet I still failed to obtain a job that came close to optimizing my expected world-healing for the first 10 months of my search.  And this failure was not due to a mere combination of variance, macroeconomics, my conception of the good or any other ethical confusions.</p>
 
-There was a huge red flag in my thought process that led me away from applying for jobs that rationally worked towards my goals.  I mulled over it dozens of times, and it was additionally pointed out to me by wise people on several occasions, yet I failed to identify it for months.  The red flag was that I had, in addition to my utilitarian preferences, a strong desire that my day-to-day work feel satisfying.  I would often think, “If I cannot directly appreciate my contribution to world-healing at the end of each day, I will have great motivational problems.”  In my defense, this was motivated by my abject horror at witnessing many idealistic people confuse themselves into thinking they were optimizing their world-healing.  I decided I needed an acid test of value-contribution to prevent myself from committing this error.  This is a classic example of overreacting to a bias one has noticed in others [2].
+<p>There was a huge red flag in my thought process that led me away from applying for jobs that rationally worked towards my goals.  I mulled over it dozens of times, and it was additionally pointed out to me by wise people on several occasions, yet I failed to identify it for months.  The red flag was that I had, in addition to my utilitarian preferences, a strong desire that my day-to-day work feel satisfying.  I believed that if I could not directly appreciate my contribution to world-healing at the end of each day, I would have serious motivational problems.  In my defense, this was motivated by my abject horror at witnessing many idealistic people confuse themselves into thinking they were optimizing their world-healing.  I decided I needed a test of value-contribution to prevent myself from committing this error.  But in this reasoning I committed the textbook error of overreacting to a bias one has noticed in others [2].</p>
 
-In retrospect the error that I made is quite clear.  I was working towards a job that would feel as though it would satisfy my utilitarian preferences without actually doing so.  By helping impoverished residents of D.C. fill out their medicaid forms, I would be quite far from optimizing my world-healing expectation.  This seems trivial and practically indisputable.  Why was it that I thought otherwise?
+<p>In retrospect the error that I made is quite clear.  I was working towards a job that would feel as though it would satisfy my utilitarian preferences without actually doing so.  By helping impoverished residents of D.C. fill out their medicaid forms, I would be quite far from optimizing my world-healing expectation.  This seems trivial and practically indisputable.  Why was it that I thought otherwise?</p>
 
-The answer, I have come to believe, lies in the nature of signaling.  Working as a receptionist at a free-health clinic is an iconic example of a job that promotes world-healing.  Such a receptionist will be considered a world-healer by virtually everyone, even those who feel that such world-healing is misguided.  To take that job would be to signal that I was world-healer. I would have the job benefit of a steady supply of positive reinforcement.
+<p>The answer, I have come to believe, lies in the nature of signaling.  Working as a receptionist at a free-health clinic is an iconic example of a job that promotes world-healing.  Such a receptionist will be considered a world-healer by virtually everyone, even those who feel that such world-healing is misguided.  To take that job would be to signal that I was world-healer. I would have a steady supply of positive reinforcement.</p>
 
-And of course, I, like most of us, am susceptible to the tragic human error of confusing the contents of the signal I would be broadcasting with the truth.
+<p>And of course, I, like most of us, am susceptible to the tragic human error of confusing the contents of the signal I would be broadcasting with the truth.</p>
 
-I will now define a new term:
+<p>I will now define a new term:</p>
 
-Self-Signaling: acting with the (likely unconscious) purpose of causing oneself to form a believe (correct or incorrect) about one’s abilities or accomplishments.
+<ul><li><b>Self-Signaling</b>: acting with the purpose of causing oneself to form a believe (correct or incorrect) about one’s abilities or accomplishments.</li></ul>
 
-How does one prone to self-signaling regarding one’s contribution to the world differ from a true world-healer?
+<p>How does one prone to self-signaling regarding one’s contribution to the world differ from a true world-healer?</p>
 
-Firstly, the real world-healer does not seek approval for his world-healing.  In fact, she regards work accompanied by strong positive reinforcement with great suspicion.
-Secondly, the real world-healer realizes that most who aspire to world-healing fall terribly short of their maximal contribution.  This is usually due to some combination of an inability to properly formulate the world’s problems, a poor understanding of economics and/or politics, a delusional cosmological view, and perhaps most commonly, the desire for the social status as a world-healer.
-And thirdly, the real world-healer sees no important connection between the value of their contributions and the status they would derive from these contributions.  Achieving status in this regard is likely still a desire of the real world-healer, but such a goal would be unrelated to her world-healing goal.
-I am proud to say that, by understanding my tendency towards self-signaling, I am much closer to optimizing world-healing today than I was a year ago.  And if you happen to come across an opportunity to validate my status at my new job, I’ll happily appreciate your praise as a job perk.
+<p>Firstly, the real world-healer does not seek approval for his world-healing.  In fact, she regards work accompanied by strong positive reinforcement with great suspicion.</p>
 
- 
+<p>Secondly, the real world-healer realizes that most who aspire to world-healing fall terribly short of their maximal contribution.  This is usually due to some combination of an inability to properly formulate the world’s problems, a poor understanding of economics and/or politics, a delusional cosmological view, and perhaps most commonly, the desire for the social status as a world-healer.</p>
 
+<p>And thirdly, the real world-healer sees no important connection between the value of their contributions and the status they would derive from these contributions.  Achieving status in this regard is likely still a desire of the real world-healer, but such a goal would be unrelated to her world-healing goal.</p>
+
+<p>I am proud to say that, by understanding my tendency towards self-signaling, I am much closer to optimizing world-healing today than I was a year ago.  And if you happen to come across an opportunity to validate my status at my new job, I’ll happily appreciate your praise as a job perk.</p>
+<br><br>
 ———————————————-
-
-[1] Adapted from here.
-
-[2] This is a great read.
+<br>
+[1] Adapted from <a href="http://wiki.lesswrong.com/wiki/Signaling">.
+<br>
+[2] <a href="http://lesswrong.com/lw/he/knowing_about_biases_can_hurt_people/">
