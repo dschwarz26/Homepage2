@@ -11,62 +11,73 @@
 <dl>
 <dt>1. Don’t mix different types of alcohol in one night.
 
-<dd>Effect: Less reckless behavior, milder hangovers.</dd>
+<br><dd>Effect: Less reckless behavior, milder hangovers.</dd>
 
-<dd>Why people think it works: The folk theory is that different types of alcohols synergize to make you more intoxicated, or more hungover, than each type of alcohol would make you on its own.</dd>
+<br><dd>Why people think it works: The folk theory is that different types of alcohols synergize to make you more intoxicated, or more hungover, than each type of alcohol would make you on its own.</dd>
 
-<dd>Why it actually works: This rule helps prevent us from drinking too much.  The easiest way to consume too much alcohol is to have many different types.  It’s not too hard to have ten drinks by having a few beers, a few glasses of wine, and some bar drinks.  But if you stick only to beer, or only to wine, or only to mint juleps, it’s very hard to consume 10 drinks.</dd>
+<br><dd>Why it actually works: This rule helps prevent us from drinking too much.  The easiest way to consume too much alcohol is to have many different types.  It’s not too hard to have ten drinks by having a few beers, a few glasses of wine, and some bar drinks.  But if you stick only to beer, or only to wine, or only to mint juleps, it’s very hard to consume 10 drinks.</dd>
 
-<dd>Better rule: Don’t drink more than 5 drinks in one night.</dd>
+<br><dd>Better rule: Don’t drink more than 5 drinks in one night.</dd>
 </dt>
-<dt>2. Don’t eat ice cream before bed.
+<br><dt>2. Don’t eat ice cream before bed.
 
-<dd>Effect: Better sleep, less nightmares.</dd>
+<br><dd>Effect: Better sleep, less nightmares.</dd>
 
-<dd>Why people think it works: Ice cream causes nightmares.</dd>
+<br><dd>Why people think it works: Ice cream causes nightmares.</dd>
 
-<dd>Why it actually works: In actuality, excessive overeating before bed causes nightmares.  Eating ice cream before bed is highly correlated with excessive overeating, because ice cream is usually consumed in addition to a full meal.  If people were to eat only ice cream, and not a full meal in addition, they would not have nightmares, even if they consumed it right before bed.</dd>
+<br><dd>Why it actually works: In actuality, excessive overeating before bed causes nightmares.  Eating ice cream before bed is highly correlated with excessive overeating, because ice cream is usually consumed in addition to a full meal.  If people were to eat only ice cream, and not a full meal in addition, they would not have nightmares, even if they consumed it right before bed.</dd>
 
-<dd>Better rule: Don’t overeat before bed.</dd>
+<br><dd>Better rule: Don’t overeat before bed.</dd>
 
-<dd>(Similar logic applies to the “Don’t eat for half an hour before swimming” rule.)</dd>
+<br><dd>(Similar logic applies to the “Don’t eat for half an hour before swimming” rule.)</dd>
 </dt>
-3. Tap the top of a recently shaken can of soda before opening it to prevent it from exploding.
+<br><dd>3. The "five second rule": When you drop food, don't eat it unless you pick it up within five seconds.
 
-Effect: The soda is less likely to explode.
+<br><dd>Effect: You are less likely to get sick from bad food / pathogens
 
-Why people think it works: ??? (perhaps driving the carbon dioxide away from the lid?)
+<br><dd>Why people think it works: Because bacteria start infecting food after the first five seconds of contact with the ground.
 
-Why it actually works: Tapping the top of the soda forces you to hold the can steady and wait before opening it.  The longer you wait, the more the carbon dioxide released by shaking the soda will be reabsorbed into the liquid.
+<br><dd>Why it actually works: It prevents you from eating mysterious floor food.
 
-Better rule: Wait before opening a recently shaken can of soda, and keep it immobile.
+<br><dd>Better rule: Don't eat floor food unless you just dropped it.
+</dt>
+<br><dt>3. Tap the top of a recently shaken can of soda before opening it to prevent it from exploding.
 
-4. (For certain religions) Don’t eat pork/beef/any meat/<insert some religion’s forbidden food> in order to be closer to God
+<br><dd>Effect: The soda is less likely to explode.
 
-Effect: People are closer to God
+<br><dd>Why people think it works: ??? (perhaps driving the carbon dioxide away from the lid?)
 
-Why people think it works: God is displeased when you eat pork/beef/any meat/<insert some religion’s forbidden food>
+<br><dd>Why it actually works: Tapping the top of the soda forces you to hold the can steady and wait before opening it.  The longer you wait, the more the carbon dioxide released by shaking the soda will be reabsorbed into the liquid.
 
-Why it actually works: Random dietary restrictions force people to eat with others with the same random dietary restrictions, thus preventing them from being exposed to ideas that challenge one’s beliefs.  (There are also other reasons that this works.)
+<br><dd>Better rule: Wait before opening a recently shaken can of soda, and keep it immobile.
+</dt>
+<br><dt>4. (For certain religions) Don’t eat pork/beef/any meat/<insert some religion’s forbidden food> in order to be closer to God
 
-Better rule: Eat with family and friends of the same religion as you.
+<br><dd>Effect: People are closer to God
 
-5. Consume massive amounts of protein after lifting weights.
+<br><dd>Why people think it works: God is displeased when you eat pork/beef/any meat/<insert some religion’s forbidden food>
 
-Effect: More muscle growth and strength building.
+<br><dd>Why it actually works: Random dietary restrictions force people to eat with others with the same random dietary restrictions, thus preventing them from being exposed to ideas that challenge one’s beliefs.  (There are also other reasons that this works.)
 
-Why people think it works: When you lift weights, all the extra protein in your system gets converted to muscle.
+<br><dd>Better rule: Eat with family and friends of the same religion as you.
+</dt>
+<br><dt>5. Consume massive amounts of protein after lifting weights.
 
-Why it actually works: Again, this behavior is only correlated with optimal muscle growth.  Consuming insufficient protein will prevent optimal muscle growth, and overeating protein maximizes the chance that you haven’t undereaten protein.  Statistically speaking, those who overeat protein will fair better than those who don’t.
+<br><dd>Effect: More muscle growth and strength building.
 
-Better rule: Eat 1 gram of protein per 1 kilogram of body weight after a full body lift.
+<br><dd>Why people think it works: When you lift weights, all the extra protein in your system gets converted to muscle.
 
-6. Running in jeans helps you lose weight.
+<br><dd>Why it actually works: Again, this behavior is only correlated with optimal muscle growth.  Consuming insufficient protein will prevent optimal muscle growth, and overeating protein maximizes the chance that you haven’t undereaten protein.  Statistically speaking, those who overeat protein will fair better than those who don’t.
 
-Effect: Weight loss
+<br><dd>Better rule: Eat 1 gram of protein per 1 kilogram of body weight after a full body lift.
+</dt>
+<br><dt>6. Running in jeans helps you lose weight.
 
-Why people think it works: Constraining your legs into tight jeans will force your body to burn fat from your legs. Alternatively, you will burn more calories by sweating more.
+<br><dd>Effect: Weight loss
 
-Why it actually works: Running is much harder in jeans, so if you run the same speed and distance, you will be burn more calories. However, if wearing jeans makes running so uncomfortable that you don't run the same distance or speed, this heuristic may be coutereffective.
+<br><dd>Why people think it works: Constraining your legs into tight jeans will force your body to burn fat from your legs. Alternatively, you will burn more calories by sweating more.
 
-Better rule: Wear whatever allows you to exert yourself the most when you exercise.
+<br><dd>Why it actually works: Running is much harder in jeans, so if you run the same speed and distance, you will be burn more calories. However, if wearing jeans makes running so uncomfortable that you don't run the same distance or speed, this heuristic may be coutereffective.
+
+<br><dd>Better rule: Wear whatever allows you to exert yourself the most when you exercise.
+</dt>

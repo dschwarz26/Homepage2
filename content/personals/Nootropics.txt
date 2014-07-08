@@ -3,11 +3,10 @@
 
 <p>Currently my stack is DHA, potassium, green tea (l-theanine and caffeine), creatine, piracetam, and choline.</p>
 
-<p>My research sources primarily come from <a href="http://www.gwern.net/Nootropics"> and <a href="www.reddit.com/r/nootropics">, as well as the relevant wikipedia articles.</p>
+<p>My research sources primarily come from <a href="http://www.gwern.net/Nootropics">Gwern on Nootropics</a> and <a href="www.reddit.com/r/nootropics">r/Nootropics</a>, as well as the relevant wikipedia articles.</p>
 
 <p>I plan to update this post based on whatever I learn that is in contrast to the expected benefits, both above and below expected performance.</p>
 
-<br>
 ——————————
 <br>
 Update: June 2013
@@ -20,7 +19,6 @@ Update: June 2013
 
 <p>I am still not nearly as awake as I’d like to be for as long as I’d like to be.</p>
 
-<br>
 ——————————
 <br>
 Update: June 2014

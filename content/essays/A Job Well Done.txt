@@ -1,9 +1,9 @@
 2011-07-21
 <p>Today I will write about a topic I consider to be very important but is often neglected. First I will define some terms I will use:</p>
-<br><ul>
+<ul>
 <li><b>Work</b>: the process one undertakes in order to accomplish a goal</li>
 <li><b>Work Feeling</b>: the emotion, akin to “A Job Well Done”, that one experiences upon accomplishing a goal</li>
-</ul><br>
+</ul>
 <p>From these definitions it is clear that one will often experience Work Feeling after completing Work.  In fact, that is often the motivating force for doing Work.  I can’t help but remember a great Calvin & Hobbes comic:</p>
 
 <p>But is also clear that Work and Work Feeling can be dissociated.  Imagine you are leaving to pick up your sister from the airport.  Right as you drive away from your house, she calls you and tells you that her friend picked her up instead.  I think many of us would feel some amount of Work Feeling (“Good for me, I did what I needed to do.”), even though, since our actions did not in any way help the goal of getting your sister home from the airport, we did no Work.</p>

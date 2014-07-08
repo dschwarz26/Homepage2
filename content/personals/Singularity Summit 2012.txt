@@ -2,7 +2,7 @@
 <p>Scattered notes and afterthoughts.</p>
 
 <p>Spending two days with an elite crowd of thinkers is extremely inspiring.  Just spending time talking to my personal heroes Eliezer and Robin justified the ticket cost.  Met some wonderful youngsters.  Highlights:</p>
-<br><ul>
+<ul>
 <li>Laughing about how incredibly nice it will be when augmented reality glasses can identify people you recognize but have forgotten with a friendly fellow who does machine learning on sensor data at a company he started in San Diego</li>
 
 <li>Admiring the stained glass in Grace Cathedral with several people my age while Fermi estimating the sun’s power output in kilowatts (hint: don’t start from the power/sq ft of sunlight that hits earth)</li>
@@ -10,7 +10,7 @@
 <li>Receiving a primer in how timeless decision theory defeats causal decision theory in the iterated prisoner’s dilemma from a London-accented lad who promotes efficient altruism in Toronto</li>
 
 <li>Having a dialect concerning the best mathematicians of all time, based on their contribution to the mathematics involved in technological acceleration (Turing was up there) with an Australian kid no older than myself who was visiting to teach some math to some of the researchers.</li>
-
+</ul>
 <p>Best part, taken from the pre-summit party on Thursday:</p>
 
 <p>Scene: 9:30pm, Daniel, Eliezer Yudkowsky, Robin Hanson, and three other LB/OWs standing on a damp porch outside a suburban house in Berkeley.  It has just stopped drizzling.</p>

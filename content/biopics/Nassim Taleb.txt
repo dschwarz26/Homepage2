@@ -7,7 +7,7 @@
 
 <p>I have read The Black Swan and am reading Antifragile. In my understanding, Taleb has performed a quadfecta of feats of rationality.</p>
 
-<br><ol>
+<ol>
 <li> Insight – He identified a systematic error of reasoning.</li>
 
 <p>He discovered, over the course of working as an options trader, that the tails of the distributions that the financial community used for a variety of underlying instruments were greatly underestimated.</p>
@@ -24,7 +24,7 @@
 
 <p>Taleb’s books have been extremely successful. The Black Swan is a household name for anyone in finance or statistics. He continues to lecture, debate, and write at a rapid pace. He is known for his extremely confrontational, anti-bullshit rhetorical style. He quite often synthesizes writings from past civilizations and broadens his technical points into philosophical ones. He is well respected in the statistical, financial, and philosophical communities.</p>
 
-<br></ol>
+</ol>
 
 <p>I can understand how many people would be satisfied by accomplishing some, but not all, of the above. For example, a path from (1) Insight to (2) Understanding to (3) Profit is success in its own right – technologists come to mind. Likewise, (1) Insight to (2) Understanding to (4) Impact is a common trajectory – think academics. Also, the second step, understanding, may be optional (Did Jobs understand why his design intuition was popular? Did MLK understand the true sociological and evo-psych causes of racism? Maybe.)</p>
 

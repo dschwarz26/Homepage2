@@ -5,11 +5,11 @@
 
 <p>I noticed, after several days of observation, that a certain individual, who I will call Gatsby, had made a series of errors.  They were:</p>
 
-<br><ul>
+<ul>
 <li>He failed to understand the distinction between general and specific.  When called on to provide a specific example, he simply rephrased his vague idea, believing that he had provided the example that was requested.</li>
 <li>He failed to notice sarcasm on several occasions where everyone else in the room picked up on the rhetoric immediately.</li>
 <li>He made a series of category errors, mistakenly identifying elements of one trend as belonging to another.</li>
-</ul><br>
+</ul>
 
 <p>None of these errors were particularly attention-grabbing.  But I naturally began wondering whether these errors fell under one category.  I asked myself, “If I were Gatsby, what single error-making pattern might I have that would cause me to make these errors?”
 Now I will take a quick detour for my visual metaphor.  Consider an archer, shooting arrows at a target far away.</p>

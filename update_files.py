@@ -17,13 +17,13 @@ base_path = '/home/daniel/Homepage/content'
 
 essay_order = [
   'On Google Glass',
-  'Beckoning',
   'Dislocated Priors',
   'Misguided but Effective Heuristics',
+  'Virtue Ethics',
   'Utility Swaps',
   'In Defense of Eating Meat',
   'More on Ethics of Vegetarianism',
-  'Virtue Ethics',
+  'Beckoning',
   'Luck in Chess',
   'A Job Well Done',
   'A Life Well Lived',

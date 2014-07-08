@@ -29,12 +29,12 @@
 
 <p>In summary, I have learned that:</p>
 
-<br><ol>
+<ol>
 <li>There is an incredible amount of complexity is small, everyday decisions.</li>
 <li>Often it is wise to add conscious deliberation to our unconscious, 2-second moral decisions.</li>
 <li>Having a mutable utility function is key to being an ethical person. This takes practice</li>
 <li>There are many, many opportunities to do small amounts of good.</li>
-
+</ol>
 
 <p>————————————</p>
 
