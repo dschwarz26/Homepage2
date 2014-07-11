@@ -1,83 +1,83 @@
 2012-12-07
 <p>I’ve been ruminating on a series of rules people follow that have two criteria in common:</p>
-<br><ul>
+<ul>
 <li>They are effective.</li>
 <li>The people who follow them have a misguided view of why they are effective.</li>
-</ul><br>
+</ul>
 
 <p>I find these types of rules interesting because they are rational in the sense that one learns one such rule, experiments with it, concludes that it is effective, and adopts it.  But at no point in the process do they understand the underlying mechanism.  So I deem these Misguided but Effective Heuristics, or MEHs.  In some cases, were people to understand the underlying mechanism, they would be able to come up with a more effective rule.</p>
 
 <p>Here are the examples I’ve found.</p>
 <dl>
-<dt>1. Don’t mix different types of alcohol in one night.
+<dt><b>1.</b> Don’t mix different types of alcohol in one night.
 
-<br><dd>Effect: Less reckless behavior, milder hangovers.</dd>
+<br><dd><b>Effect:</b> Less reckless behavior, milder hangovers.</dd>
 
-<br><dd>Why people think it works: The folk theory is that different types of alcohols synergize to make you more intoxicated, or more hungover, than each type of alcohol would make you on its own.</dd>
+<br><dd><b>Why people think it works:</b> The folk theory is that different types of alcohols synergize to make you more intoxicated, or more hungover, than each type of alcohol would make you on its own.</dd>
 
-<br><dd>Why it actually works: This rule helps prevent us from drinking too much.  The easiest way to consume too much alcohol is to have many different types.  It’s not too hard to have ten drinks by having a few beers, a few glasses of wine, and some bar drinks.  But if you stick only to beer, or only to wine, or only to mint juleps, it’s very hard to consume 10 drinks.</dd>
+<br><dd><b>Why it actually works:</b> This rule helps prevent us from drinking too much.  The easiest way to consume too much alcohol is to have many different types.  It’s not too hard to have ten drinks by having a few beers, a few glasses of wine, and some bar drinks.  But if you stick only to beer, or only to wine, or only to mint juleps, it’s very hard to consume 10 drinks.</dd>
 
-<br><dd>Better rule: Don’t drink more than 5 drinks in one night.</dd>
+<br><dd><b>Better rule:</b> Don’t drink more than 5 drinks in one night.</dd>
 </dt>
-<br><dt>2. Don’t eat ice cream before bed.
+<br><dt><b>2.</b> Don’t eat ice cream before bed.
 
-<br><dd>Effect: Better sleep, less nightmares.</dd>
+<br><dd><b>Effect:</b> Better sleep, less nightmares.</dd>
 
-<br><dd>Why people think it works: Ice cream causes nightmares.</dd>
+<br><dd><b>Why people think it works:</b> Ice cream causes nightmares.</dd>
 
-<br><dd>Why it actually works: In actuality, excessive overeating before bed causes nightmares.  Eating ice cream before bed is highly correlated with excessive overeating, because ice cream is usually consumed in addition to a full meal.  If people were to eat only ice cream, and not a full meal in addition, they would not have nightmares, even if they consumed it right before bed.</dd>
+<br><dd><b>Why it actually works:</b> In actuality, excessive overeating before bed causes nightmares.  Eating ice cream before bed is highly correlated with excessive overeating, because ice cream is usually consumed in addition to a full meal.  If people were to eat only ice cream, and not a full meal in addition, they would not have nightmares, even if they consumed it right before bed.</dd>
 
-<br><dd>Better rule: Don’t overeat before bed.</dd>
+<br><dd><b>Better rule:</b> Don’t overeat before bed.</dd>
 
 <br><dd>(Similar logic applies to the “Don’t eat for half an hour before swimming” rule.)</dd>
 </dt>
-<br><dd>3. The "five second rule": When you drop food, don't eat it unless you pick it up within five seconds.
+<br><dt><b>3.</b> The "five second rule": When you drop food, don't eat it unless you pick it up within five seconds.
 
-<br><dd>Effect: You are less likely to get sick from bad food / pathogens
+<br><dd><b>Effect:</b> You are less likely to get sick from bad food or pathogens.</dd>
 
-<br><dd>Why people think it works: Because bacteria start infecting food after the first five seconds of contact with the ground.
+<br><dd><b>Why people think it works:</b> Because bacteria start infecting food after the first five seconds of contact with the ground.</dd>
 
-<br><dd>Why it actually works: It prevents you from eating mysterious floor food.
+<br><dd><b>Why it actually works:</b> It prevents you from eating mysterious floor food.</dd>
 
-<br><dd>Better rule: Don't eat floor food unless you just dropped it.
+<br><dd><b>Better rule:</b> Don't eat floor food unless you just dropped it.</dd>
 </dt>
-<br><dt>3. Tap the top of a recently shaken can of soda before opening it to prevent it from exploding.
+<br><dt><b>4.</b> Tap the top of a recently shaken can of soda before opening it to prevent it from exploding.
 
-<br><dd>Effect: The soda is less likely to explode.
+<br><dd><b>Effect:</b> The soda is less likely to explode.</dd>
 
-<br><dd>Why people think it works: ??? (perhaps driving the carbon dioxide away from the lid?)
+<br><dd><b>Why people think it works:</b> ??? (perhaps driving the carbon dioxide away from the lid?)</dd>
 
-<br><dd>Why it actually works: Tapping the top of the soda forces you to hold the can steady and wait before opening it.  The longer you wait, the more the carbon dioxide released by shaking the soda will be reabsorbed into the liquid.
+<br><dd><b>Why it actually works:</b> Tapping the top of the soda forces you to hold the can steady and wait before opening it.  The longer you wait, the more the carbon dioxide released by shaking the soda will be reabsorbed into the liquid.</dd>
 
-<br><dd>Better rule: Wait before opening a recently shaken can of soda, and keep it immobile.
+<br><dd><b>Better rule:</b> Wait before opening a recently shaken can of soda, and keep it immobile.</dd>
 </dt>
-<br><dt>4. (For certain religions) Don’t eat pork/beef/any meat/<insert some religion’s forbidden food> in order to be closer to God
+<br><dt><b>5.</b> (For certain religions) Don’t eat pork/beef/any meat/<insert some religion’s forbidden food> in order to be closer to God
 
-<br><dd>Effect: People are closer to God
+<br><dd><b>Effect:</b> People are closer to God</dd>
 
-<br><dd>Why people think it works: God is displeased when you eat pork/beef/any meat/<insert some religion’s forbidden food>
+<br><dd><b>Why people think it works:</b> God is displeased when you eat pork/beef/any meat/<insert some religion’s forbidden food></dd>
 
-<br><dd>Why it actually works: Random dietary restrictions force people to eat with others with the same random dietary restrictions, thus preventing them from being exposed to ideas that challenge one’s beliefs.  (There are also other reasons that this works.)
+<br><dd><b>Why it actually works:</b> Random dietary restrictions force people to eat with others with the same random dietary restrictions, thus preventing them from being exposed to ideas that challenge one’s beliefs.  (There are also other reasons that this works.)</dd>
 
-<br><dd>Better rule: Eat with family and friends of the same religion as you.
+<br><dd><b>Better rule:</b> Eat with family and friends of the same religion as you.</dd>
 </dt>
-<br><dt>5. Consume massive amounts of protein after lifting weights.
+<br><dt><b>6.</b> Consume massive amounts of protein after lifting weights.
 
-<br><dd>Effect: More muscle growth and strength building.
+<br><dd><b>Effect:</b> More muscle growth and strength building.</dd>
 
-<br><dd>Why people think it works: When you lift weights, all the extra protein in your system gets converted to muscle.
+<br><dd><b>Why people think it works:</b> When you lift weights, all the extra protein in your system gets converted to muscle.</dd>
 
-<br><dd>Why it actually works: Again, this behavior is only correlated with optimal muscle growth.  Consuming insufficient protein will prevent optimal muscle growth, and overeating protein maximizes the chance that you haven’t undereaten protein.  Statistically speaking, those who overeat protein will fair better than those who don’t.
+<br><dd><b>Why it actually works:</b> Again, this behavior is only correlated with optimal muscle growth.  Consuming insufficient protein will prevent optimal muscle growth, and overeating protein maximizes the chance that you haven’t undereaten protein.  Statistically speaking, those who overeat protein will fair better than those who don’t.</dd>
 
-<br><dd>Better rule: Eat 1 gram of protein per 1 kilogram of body weight after a full body lift.
+<br><dd><b>Better rule:</b> Eat 1 gram of protein per 1 kilogram of body weight after a full body lift.</dd>
 </dt>
-<br><dt>6. Running in jeans helps you lose weight.
+<br><dt><b>7.</b> Running in jeans helps you lose weight.
 
-<br><dd>Effect: Weight loss
+<br><dd><b>Effect:</b> Weight loss</dd>
 
-<br><dd>Why people think it works: Constraining your legs into tight jeans will force your body to burn fat from your legs. Alternatively, you will burn more calories by sweating more.
+<br><dd><b>Why people think it works:</b> Constraining your legs into tight jeans will force your body to burn fat from your legs. Alternatively, you will burn more calories by sweating more.</dd>
 
-<br><dd>Why it actually works: Running is much harder in jeans, so if you run the same speed and distance, you will be burn more calories. However, if wearing jeans makes running so uncomfortable that you don't run the same distance or speed, this heuristic may be coutereffective.
+<br><dd><b>Why it actually works:</b> Running is much harder in jeans, so if you run the same speed and distance, you will burn more calories. However, if wearing jeans makes running so uncomfortable that you don't run the same distance or speed, this heuristic may be coutereffective.</dd>
 
-<br><dd>Better rule: Wear whatever allows you to exert yourself the most when you exercise.
+<br><dd><b>Better rule:</b> Wear whatever allows you to exert yourself the most when you exercise.</dd>
 </dt>
